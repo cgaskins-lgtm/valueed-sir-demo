@@ -184,15 +184,8 @@ def speak(text: str):
         voice="nova",
         input=text[:4096],
     )
-    b64 = base64.b64encode(resp.content).decode()
-    components.html(
-        f"""
-        <audio controls autoplay style="width:100%;margin-top:4px;">
-            <source src="data:audio/mp3;base64,{b64}" type="audio/mp3">
-        </audio>
-        """,
-        height=60,
-    )
+    st.caption("🔊 Tap play to hear the response:")
+    st.audio(resp.content, format="audio/mp3")
 
 
 def save_report(content: str) -> Path:
