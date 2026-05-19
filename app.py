@@ -204,6 +204,8 @@ if "voice" not in st.session_state:
     st.session_state.voice = True
 if "last_audio" not in st.session_state:
     st.session_state.last_audio = {}  # mode -> audio bytes
+if "policy_input_key" not in st.session_state:
+    st.session_state.policy_input_key = 0
 
 # ── Sidebar ────────────────────────────────────────────────────────────────────
 
@@ -265,6 +267,7 @@ if mode == "✅ Policy Review":
         height=180,
         placeholder="Paste the full SIR or incident description here for policy review...",
         label_visibility="collapsed",
+        key=f"policy_text_{st.session_state.policy_input_key}",
     )
     submitted = st.button("Submit for Review", type="primary")
     if not submitted:
@@ -331,6 +334,10 @@ if user_text:
                     st.caption(f"Voice unavailable: {e}")
 
     history.append({"role": "assistant", "content": answer})
+
+    # Clear the policy paste box after submission
+    if mode == "✅ Policy Review":
+        st.session_state.policy_input_key += 1
 
     # Check if the answer contains a formatted SIR draft — offer to save it
     if "antecedent" in answer.lower() and "outcome" in answer.lower() and mode == "📝 SIR Writing":
