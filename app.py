@@ -174,7 +174,7 @@ def call_claude(mode_name: str, history: list) -> str:
 
     resp = claude.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=1200,
+        max_tokens=700,
         system=system,
         messages=api_msgs,
     )
@@ -299,8 +299,21 @@ for msg in history:
 # Persistent audio player — shown below chat when voice response is available
 if st.session_state.voice and mode in st.session_state.last_audio:
     st.markdown("---")
-    st.caption("🔊 **Tap play** to hear the last AI response:")
-    st.audio(st.session_state.last_audio[mode], format="audio/mp3")
+    st.caption("🔊 AI Voice Response:")
+    st.audio(st.session_state.last_audio[mode], format="audio/mp3", autoplay=True)
+    # Attempt autoplay via parent frame (works when browser allows it)
+    components.html("""
+    <script>
+    setTimeout(function() {
+        try {
+            var audios = window.parent.document.querySelectorAll('audio');
+            if (audios.length > 0) {
+                audios[audios.length - 1].play();
+            }
+        } catch(e) {}
+    }, 400);
+    </script>
+    """, height=0)
 
 # ── Text input (pinned to bottom) ─────────────────────────────────────────────
 
