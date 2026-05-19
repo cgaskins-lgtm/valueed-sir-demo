@@ -253,11 +253,26 @@ st.caption(mode_cfg["description"])
 if not history:
     history.append({"role": "assistant", "content": mode_cfg["opening"], "greeting": True})
 
-# ── Voice input ────────────────────────────────────────────────────────────────
+# ── Top input — paste box for Policy Review, mic for other modes ───────────────
 
-st.markdown("**🎤 Voice Input** — click to record, click again to stop. Transcription is automatic.")
-audio_key = f"audio_{mode}_{len(history)}"
-recorded = st.audio_input("Click to record", key=audio_key, label_visibility="collapsed")
+recorded = None
+pasted_text = None
+
+if mode == "✅ Policy Review":
+    st.markdown("**📋 Paste SIR Draft for Review** — paste your draft below, then click Submit:")
+    pasted_text = st.text_area(
+        "Paste SIR draft here",
+        height=180,
+        placeholder="Paste the full SIR or incident description here for policy review...",
+        label_visibility="collapsed",
+    )
+    submitted = st.button("Submit for Review", type="primary")
+    if not submitted:
+        pasted_text = None
+else:
+    st.markdown("**🎤 Voice Input** — click to record, click again to stop. Transcription is automatic.")
+    audio_key = f"audio_{mode}_{len(history)}"
+    recorded = st.audio_input("Click to record", key=audio_key, label_visibility="collapsed")
 
 st.divider()
 
@@ -284,6 +299,8 @@ user_text = None
 
 if typed:
     user_text = typed
+elif pasted_text and pasted_text.strip():
+    user_text = pasted_text
 elif recorded:
     with st.spinner("Transcribing your recording..."):
         try:
