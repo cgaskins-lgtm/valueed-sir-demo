@@ -1,5 +1,6 @@
 import os
 import io
+import base64
 from pathlib import Path
 from datetime import datetime
 
@@ -176,13 +177,18 @@ def transcribe_audio(audio_widget) -> str:
     return result.text
 
 
-def speak(text: str) -> bytes:
+def speak(text: str):
     resp = oai.audio.speech.create(
         model="tts-1",
         voice="nova",
         input=text[:4096],
     )
-    return resp.content
+    b64 = base64.b64encode(resp.content).decode()
+    st.markdown(
+        f'<audio controls autoplay style="width:100%;margin-top:8px;">'
+        f'<source src="data:audio/mp3;base64,{b64}" type="audio/mp3"></audio>',
+        unsafe_allow_html=True,
+    )
 
 
 def save_report(content: str) -> Path:
@@ -297,8 +303,7 @@ if user_text:
         if st.session_state.voice:
             with st.spinner("Generating voice response..."):
                 try:
-                    audio_bytes = speak(answer)
-                    st.audio(audio_bytes, format="audio/mp3", autoplay=True)
+                    speak(answer)
                 except Exception as e:
                     st.caption(f"Voice unavailable: {e}")
 
