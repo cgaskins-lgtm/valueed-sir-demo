@@ -178,14 +178,13 @@ def transcribe_audio(audio_widget) -> str:
     return result.text
 
 
-def speak(text: str):
+def generate_audio(text: str) -> bytes:
     resp = oai.audio.speech.create(
         model="tts-1",
         voice="nova",
         input=text[:4096],
     )
-    st.caption("🔊 Tap play to hear the response:")
-    st.audio(resp.content, format="audio/mp3")
+    return resp.content
 
 
 def save_report(content: str) -> Path:
@@ -202,6 +201,8 @@ if "histories" not in st.session_state:
     st.session_state.histories = {m: [] for m in MODES}
 if "voice" not in st.session_state:
     st.session_state.voice = True
+if "last_audio" not in st.session_state:
+    st.session_state.last_audio = {}  # mode -> audio bytes
 
 # ── Sidebar ────────────────────────────────────────────────────────────────────
 
@@ -229,6 +230,7 @@ with st.sidebar:
 
     if st.button("🗑️ Clear Conversation", use_container_width=True):
         st.session_state.histories[st.session_state.mode] = []
+        st.session_state.last_audio.pop(st.session_state.mode, None)
         st.rerun()
 
     st.divider()
@@ -260,10 +262,17 @@ st.divider()
 
 # ── Chat history ───────────────────────────────────────────────────────────────
 
-for msg in history:
+for i, msg in enumerate(history):
     avatar = "🤖" if msg["role"] == "assistant" else "👤"
     with st.chat_message(msg["role"], avatar=avatar):
         st.markdown(msg["content"])
+        # Show audio player after the last assistant message
+        if (msg["role"] == "assistant"
+                and i == len(history) - 1
+                and st.session_state.voice
+                and mode in st.session_state.last_audio):
+            st.caption("🔊 Tap play to hear the response:")
+            st.audio(st.session_state.last_audio[mode], format="audio/mp3")
 
 # ── Text input (pinned to bottom) ─────────────────────────────────────────────
 
@@ -300,7 +309,7 @@ if user_text:
         if st.session_state.voice:
             with st.spinner("Generating voice response..."):
                 try:
-                    speak(answer)
+                    st.session_state.last_audio[mode] = generate_audio(answer)
                 except Exception as e:
                     st.caption(f"Voice unavailable: {e}")
 
