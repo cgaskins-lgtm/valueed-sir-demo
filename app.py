@@ -262,17 +262,16 @@ st.divider()
 
 # ── Chat history ───────────────────────────────────────────────────────────────
 
-for i, msg in enumerate(history):
+for msg in history:
     avatar = "🤖" if msg["role"] == "assistant" else "👤"
     with st.chat_message(msg["role"], avatar=avatar):
         st.markdown(msg["content"])
-        # Show audio player after the last assistant message
-        if (msg["role"] == "assistant"
-                and i == len(history) - 1
-                and st.session_state.voice
-                and mode in st.session_state.last_audio):
-            st.caption("🔊 Tap play to hear the response:")
-            st.audio(st.session_state.last_audio[mode], format="audio/mp3")
+
+# Persistent audio player — shown below chat when voice response is available
+if st.session_state.voice and mode in st.session_state.last_audio:
+    st.markdown("---")
+    st.caption("🔊 **Tap play** to hear the last AI response:")
+    st.audio(st.session_state.last_audio[mode], format="audio/mp3")
 
 # ── Text input (pinned to bottom) ─────────────────────────────────────────────
 
