@@ -12,15 +12,12 @@ from openai import OpenAI
 
 load_dotenv()
 
-# Works locally (.env) and on Streamlit Cloud (st.secrets)
-def get_secret(key: str) -> str:
-    try:
-        return st.secrets[key]
-    except Exception:
-        return os.getenv(key, "")
+# Resolve API keys — Streamlit Cloud secrets take priority, then .env
+_anthropic_key = st.secrets.get("ANTHROPIC_API_KEY", None) or os.getenv("ANTHROPIC_API_KEY", "")
+_openai_key = st.secrets.get("OPENAI_API_KEY", None) or os.getenv("OPENAI_API_KEY", "")
 
-claude = anthropic.Anthropic(api_key=get_secret("ANTHROPIC_API_KEY"))
-oai = OpenAI(api_key=get_secret("OPENAI_API_KEY"))
+claude = anthropic.Anthropic(api_key=_anthropic_key)
+oai = OpenAI(api_key=_openai_key)
 
 RAG_FOLDER = Path("rag_documents")
 REPORTS_FOLDER = Path("generated_reports")
