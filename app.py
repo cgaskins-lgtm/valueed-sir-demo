@@ -233,6 +233,15 @@ with st.sidebar:
 
     st.divider()
 
+    # Voice input lives in sidebar so it's always visible — no scrolling needed
+    recorded = None
+    if st.session_state.mode != "✅ Policy Review":
+        st.markdown("**🎤 Voice Input**")
+        st.caption("Click to record · click again to stop")
+        audio_key = f"audio_{st.session_state.mode}_{len(st.session_state.histories[st.session_state.mode])}"
+        recorded = st.audio_input("Record", key=audio_key, label_visibility="collapsed")
+        st.divider()
+
     st.session_state.voice = st.toggle(
         "🔊 Voice Responses",
         value=st.session_state.voice,
@@ -265,13 +274,12 @@ st.caption(mode_cfg["description"])
 if not history:
     history.append({"role": "assistant", "content": mode_cfg["opening"], "greeting": True})
 
-# ── Top input — paste box for Policy Review, mic for other modes ───────────────
+# ── Paste box for Policy Review (main area) ────────────────────────────────────
 
-recorded = None
 pasted_text = None
 
 if mode == "✅ Policy Review":
-    st.markdown("**📋 Paste SIR Draft for Review** — paste your draft below, then click Submit:")
+    st.markdown("**📋 Paste SIR Draft for Review** — paste below, then click Submit:")
     pasted_text = st.text_area(
         "Paste SIR draft here",
         height=180,
@@ -282,10 +290,6 @@ if mode == "✅ Policy Review":
     submitted = st.button("Submit for Review", type="primary")
     if not submitted:
         pasted_text = None
-else:
-    st.markdown("**🎤 Voice Input** — click to record, click again to stop. Transcription is automatic.")
-    audio_key = f"audio_{mode}_{len(history)}"
-    recorded = st.audio_input("Click to record", key=audio_key, label_visibility="collapsed")
 
 st.divider()
 
