@@ -35,8 +35,9 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-/* Tighten the audio recorder widget */
-.stAudioInput { margin-bottom: 0; }
+/* Hide the recorded audio playback bar — transcription is automatic */
+[data-testid="stAudioInput"] audio { display: none !important; }
+[data-testid="stAudioInput"] [data-testid="stAudioInputWaveform"] + div { display: none !important; }
 /* Make sidebar buttons full width */
 section[data-testid="stSidebar"] .stButton button { width: 100%; }
 </style>
@@ -254,7 +255,7 @@ if not history:
 
 # ── Voice input ────────────────────────────────────────────────────────────────
 
-st.markdown("**🎤 Voice Input** — record your message, then the AI will respond:")
+st.markdown("**🎤 Voice Input** — click to record, click again to stop. Transcription is automatic.")
 audio_key = f"audio_{mode}_{len(history)}"
 recorded = st.audio_input("Click to record", key=audio_key, label_visibility="collapsed")
 
