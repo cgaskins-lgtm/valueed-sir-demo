@@ -5,6 +5,7 @@ from pathlib import Path
 from datetime import datetime
 
 import streamlit as st
+import streamlit.components.v1 as components
 from dotenv import load_dotenv
 import anthropic
 from openai import OpenAI
@@ -184,10 +185,13 @@ def speak(text: str):
         input=text[:4096],
     )
     b64 = base64.b64encode(resp.content).decode()
-    st.markdown(
-        f'<audio controls autoplay style="width:100%;margin-top:8px;">'
-        f'<source src="data:audio/mp3;base64,{b64}" type="audio/mp3"></audio>',
-        unsafe_allow_html=True,
+    components.html(
+        f"""
+        <audio controls autoplay style="width:100%;margin-top:4px;">
+            <source src="data:audio/mp3;base64,{b64}" type="audio/mp3">
+        </audio>
+        """,
+        height=60,
     )
 
 
