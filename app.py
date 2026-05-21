@@ -22,7 +22,7 @@ claude = anthropic.Anthropic(api_key=_anthropic_key)
 oai = OpenAI(api_key=_openai_key)
 
 RAG_FOLDER = Path("rag_documents")
-REPORTS_FOLDER = Path("generated_reports")
+REPORTS_FOLDER = Path("/tmp/generated_reports")
 REPORTS_FOLDER.mkdir(exist_ok=True)
 
 # ── Page config ────────────────────────────────────────────────────────────────
