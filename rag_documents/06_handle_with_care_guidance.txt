@@ -87,24 +87,131 @@ Fax Order Form to 845-256-0094
 
 DATE:
 
-BILL TO:SHIP TO:
+BILL TO:
+SHIP TO:
 
-CHECK IF SAME AS BILL TO ADDRESSORGANIZATION:NAME:CONTACT:EMAIL:ADDRESS:ADDRESS:PHONE:FAX:
+CHECK IF SAME AS BILL TO ADDRESS
+ORGANIZATION:
+NAME:
+CONTACT:
+EMAIL:
+ADDRESS:
+ADDRESS:
+PHONE:
+FAX:
 
-#
-ITEMs
-M
-L
-XLCOST S-XL
-XXL
-3XL
-4XL COST 2XL-4XLTOTAL COST1T-SHIRT
-White w/lnstructor$15.00$]8.00Black w/lnstructor2LONG SLEEVE T-SHIRT
-White w/lnstructor$20.00$22.00Black w/lnstructorWE CAN SPECIAL ORDER APPAREL AND PRODUCT
-*We do not keep an extensive inventory of sweatshirts and your order and may take up to 6-8 weeks to shipCOSTSHIPPING $5/SHIRT
-(For orders under 5 shirts. For larger orders call for a quote or go onto our web site: www.handlewithcare.com. HWC's shopping cart automatically calculates shipping costs.)
-NEW YORK AGENCIES ADD SALES TAX 8.5%
-TOTAL
+
+#
+
+ITEM
+s
+
+M
+
+L
+
+XL
+COST S-XL
+
+XXL
+
+3XL
+
+4XL
+ COST 2XL-4XL
+TOTAL COST
+1
+T-SHIRT
+White w/lnstructor
+
+
+
+
+$15.00
+
+
+
+$]8.00
+
+
+Black w/lnstructor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+LONG SLEEVE T-SHIRT
+White w/lnstructor
+
+
+
+
+$20.00
+
+
+
+$22.00
+
+
+Black w/lnstructor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WE CAN SPECIAL ORDER APPAREL AND PRODUCT
+*We do not keep an extensive inventory of sweatshirts and your order and may take up to 6-8 weeks to ship
+
+COST
+
+
+SHIPPING $5/SHIRT
+(For orders under 5 shirts. For larger orders call for a quote or go onto our web site: www.handlewithcare.com. HWC's shopping cart automatically calculates shipping costs.)
+
+
+
+NEW YORK AGENCIES ADD SALES TAX 8.5%
+
+
+
+TOTAL
+
+
 
 
 
@@ -119,30 +226,72 @@ Fax 845-256-0094 ? Mail: 184 McKinstry Road, Gardiner, NY 12525
 
 DATE:
 
-BILL TO:SHIP TO:
+BILL TO:
+SHIP TO:
 
-D CHECK IF SAME AS BILL TO ADDRESSORGANIZATION:NAME:CONTACT:EMAIL:ADDRESS:ADDRESS:PHONE:FAX:
+D CHECK IF SAME AS BILL TO ADDRESS
+ORGANIZATION:
+NAME:
+CONTACT:
+EMAIL:
+ADDRESS:
+ADDRESS:
+PHONE:
+FAX:
 
 
 
-ITEM
-QTY
-Price Per Unit
+
+ITEM
+
+QTY
+
+Price Per Unit
+
 Item Total
-(Qty x Price)PRT Tripod Stand IIVI
-$75.00CerviPro SpitGuard?
-$175.00
+(Qty x Price)
+PRT Tripod Stand IIVI
+
+
+$75.00
+
+CerviPro SpitGuard?
+
+
+$175.00
+
+
 Standard Shipping & Handling Charges.
-Use the shipping estimates below or go on our web site: www.handlewithcare.com. HWC's shopping cart automatically calculates shipping costs.SubtotalSales Tax*If the subtotal is$75 to
-$175$176 to
-$375$376 to
-$875$876 and overShipping & HandlingAdd this for
-shipping$15$20$30Call for QuoteGrandTotal
+Use the shipping estimates below or go on our web site: www.handlewithcare.com. HWC's shopping cart automatically calculates shipping costs.
+Subtotal
+
+
+Sales Tax*
+
+If the subtotal is
+$75 to
+$175
+$176 to
+$375
+$376 to
+$875
+$876 and over
+Shipping & Handling
+
+Add this for
+shipping
+$15
+$20
+$30
+Call for Quote
+GrandTotal
+
+
 NYC residents add 8.25% for all other NY counties and locations, please add your appropriate sales tax rate. If tax exempt, enter exempt/resale number:	?
 
 
 
-Tel: (845) 255-4031þ Email: HWCBruce@aol.com ? WebSite: www.handlewithcare.com
+Tel: (845) 255-4031Ã¾ Email: HWCBruce@aol.com ? WebSite: www.handlewithcare.com
 
 Handle With Care Instructor Manual
 TABLE OF CONTENTS
