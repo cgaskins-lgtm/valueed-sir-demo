@@ -7,23 +7,34 @@ from datetime import datetime
 import streamlit as st
 import streamlit.components.v1 as components
 from dotenv import load_dotenv
-import anthropic
-from openai import OpenAI
 
 # ── Environment ────────────────────────────────────────────────────────────────
 
 load_dotenv()
 
-# Resolve API keys — Streamlit Cloud secrets take priority, then .env
-_anthropic_key = st.secrets.get("ANTHROPIC_API_KEY", None) or os.getenv("ANTHROPIC_API_KEY", "")
-_openai_key = st.secrets.get("OPENAI_API_KEY", None) or os.getenv("OPENAI_API_KEY", "")
-
-claude = anthropic.Anthropic(api_key=_anthropic_key)
-oai = OpenAI(api_key=_openai_key)
-
-RAG_FOLDER = Path("rag_documents")
+BASE_DIR = Path(__file__).parent
+RAG_FOLDER = BASE_DIR / "rag_documents"
 REPORTS_FOLDER = Path("/tmp/generated_reports")
 REPORTS_FOLDER.mkdir(exist_ok=True)
+
+def _get_secret(key: str) -> str:
+    try:
+        val = st.secrets.get(key, None)
+    except Exception:
+        val = None
+    return val or os.getenv(key, "")
+
+@st.cache_resource
+def get_claude():
+    import anthropic
+    key = _get_secret("ANTHROPIC_API_KEY")
+    return anthropic.Anthropic(api_key=key)
+
+@st.cache_resource
+def get_oai():
+    from openai import OpenAI
+    key = _get_secret("OPENAI_API_KEY")
+    return OpenAI(api_key=key)
 
 # ── Page config ────────────────────────────────────────────────────────────────
 
@@ -173,7 +184,7 @@ def call_claude(mode_name: str, history: list) -> str:
     if not api_msgs or api_msgs[0]["role"] != "user":
         return "Could you tell me a bit more about what happened? I want to make sure I help you accurately."
 
-    resp = claude.messages.create(
+    resp = get_claude().messages.create(
         model="claude-sonnet-4-6",
         max_tokens=700,
         system=system,
@@ -186,12 +197,12 @@ def transcribe_audio(audio_widget) -> str:
     raw = audio_widget.read()
     buf = io.BytesIO(raw)
     buf.name = "recording.wav"
-    result = oai.audio.transcriptions.create(model="whisper-1", file=buf)
+    result = get_oai().audio.transcriptions.create(model="whisper-1", file=buf)
     return result.text
 
 
 def generate_audio(text: str) -> bytes:
-    resp = oai.audio.speech.create(
+    resp = get_oai().audio.speech.create(
         model="tts-1",
         voice="nova",
         input=text[:4096],
