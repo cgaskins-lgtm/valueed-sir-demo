@@ -1,27 +1,27 @@
 
-Youth for Tomorrow
+[Agency Name]
 
 SERIOUS INCIDENT REPORT
 ** CONTACT ADMINISTRATOR ON-CALL BEFORE COMPLETING THIS FORM **
 
 
-Resident NameDate Of IncidentTime Of Incident
+Resident NameDate Of IncidentTime Of Incident
 
 TYPE OF INCIDENT 
 Mark all that apply.
 
-Medical intervention other than minor first aidSuspected drug abuseUnauthorized absence from YFT campus (AWOL) Accusations of criminal conductAllegations of child abuse or neglectSerious illnessesSerious infractions of residential or school rulesSerious altercations with staff or other residentsEvent or incident involving the resident which may reasonably impact on the rights and responsibilities of the resident?s legal guardianOther serious incident as defined by a Comprehensive Services Act (CSA) contract from a placing agency
+Medical intervention other than minor first aidSuspected drug abuseUnauthorized absence from [Agency] campus (AWOL) Accusations of criminal conductAllegations of child abuse or neglectSerious illnessesSerious infractions of residential or school rulesSerious altercations with staff or other residentsEvent or incident involving the resident which may reasonably impact on the rights and responsibilities of the resident?s legal guardianOther serious incident as defined by a Comprehensive Services Act (CSA) contract from a placing agency
 NOTE:   When logging SIR into Education Edge (EE), copy and paste language from selected item(s) into the Conduct Incident Note field in EE.
 
 LOCATION OF INCIDENT 
 
-
+
 DESCRIPTION OF INCIDENT 
 What occurred prior to the incident?	Detailed description of incident.Action taken as a result of this incident.Name(s) of staff involved.Witnesses (other than staff involved).Was there a physical restraint?  
-(Yes or No)
+(Yes or No)
 
 STAFF COMPLETING THIS REPORT    * * * Complete By The End Of The Shift When Incident Occurred * * *
-Name  PositionSignatureDate
+Name  PositionSignatureDate
 
 
 
@@ -38,23 +38,23 @@ Was MadeDate
 of ContactTime
 of ContactType
 of ContactName of Staff
-Who Did NotificationLegal Guardian(s) other than SW or parentCase Worker/Case Manager (external)Probation OfficerParent(s) as applicable (see resident face sheet)Guardian ad Litem (GAL)YFT Administrator On CallYFT Case ManagerOther:
-
+Who Did NotificationLegal Guardian(s) other than SW or parentCase Worker/Case Manager (external)Probation OfficerParent(s) as applicable (see resident face sheet)Guardian ad Litem (GAL)[Agency] Administrator On Call[Agency] Case ManagerOther:
+
 NOTIFICATION OF POLICE (If Applicable)
-Officer?s NameCase NumberPhone Number
+Officer?s NameCase NumberPhone Number
 NOTIFICATION OF CHILD PROTECTIVE SERVICES (If Applicable)   
-Name of CPS staff to whom report was madeCPS phone number    Date of notificationTime of notification
+Name of CPS staff to whom report was madeCPS phone number    Date of notificationTime of notification
 NOTIFICATION OF LICENSING - For Serious Illness or Injury; Allegation of Child Abuse or Neglect; or Death of a Resident 
-Date of notificationTime of notificationName of staff that notified LicensingName of Licensing staff who was notified
+Date of notificationTime of notificationName of staff that notified LicensingName of Licensing staff who was notified
 Mark as appropriate.
 Serious Illness or InjuryAllegation of Child Abuse & NeglectDeath of a Resident              
 
 STAFF REVIEW    ****  ALL SIRs must be reviewed by a Supervisor AND Case Manager***
-Supervisor?s Name  PositionSupervisor?s SignatureDateCase Manager?s NamePositionCase Manager?s SignatureDate
+Supervisor?s Name  PositionSupervisor?s SignatureDateCase Manager?s NamePositionCase Manager?s SignatureDate
 FOR OUT-OF-STATE RESIDENTS ONLY ? A Copy of the SIR must be sent to administrator of the 	
 Va. Interstate Compact on the Placement of Children. 
 Date sent to Interstate CompactMethod of Distribution 
-(email, fax or mail) Signature of Case Manager
+(email, fax or mail) Signature of Case Manager
 
 
 

@@ -1,114 +1,133 @@
+SAMPLE COMPLIANT SERIOUS INCIDENT REPORT — TRAINING SCENARIO (FICTIONAL)
+All names, dates, and identifying details are fictional and for training purposes only.
+This document is an example of a well-completed SIR. See 14_sample_flawed_sir.txt for a version with intentional errors.
 
-Youth for Tomorrow
-
-SERIOUS INCIDENT REPORT
+[AGENCY NAME] — SERIOUS INCIDENT REPORT
 ** CONTACT ADMINISTRATOR ON-CALL BEFORE COMPLETING THIS FORM **
 
+Resident Name: Sam (first name only per confidentiality protocol)
+Date of Incident: 12/19/XX
+Time of Incident: 11:20 a.m.
 
-Resident NameSam JohnsonDate Of Incident12/19/12Time Of Incident11:20 a.m.
+TYPE OF INCIDENT (Mark all that apply):
+[X] Serious infractions of residential or school rules
+[X] Serious altercations with staff or other residents
+[X] Event or incident involving the resident which may reasonably impact on the rights and responsibilities of the resident's legal guardian
 
-TYPE OF INCIDENT 
-Mark all that apply.
+LOCATION OF INCIDENT: Boys Home
 
-Medical intervention other than minor first aidSuspected drug abuseUnauthorized absence from YFT campus (AWOL) Accusations of criminal conductAllegations of child abuse or neglectSerious illnessesSerious infractions of residential or school rulesxSerious altercations with staff or other residentsEvent or incident involving the resident which may reasonably impact on the rights and responsibilities of the resident?s legal guardianOther serious incident as defined by a Comprehensive Services Act (CSA) contract from a placing agency
-NOTE:   When logging SIR into Education Edge (EE), copy and paste language from selected item(s) into the Conduct Incident Note field in EE.
+DESCRIPTION OF INCIDENT:
 
-LOCATION OF INCIDENT 
+What occurred prior to the incident?
+Sam was in his room when he was called to the office to speak with staff. Resident #1 and Resident #2 were also there being administered medication by Mr. Williams. When Sam arrived, Mr. Williams informed him that his mother had called to say she would not be able to visit that weekend.
 
-Boys Home
-DESCRIPTION OF INCIDENT 
-What occurred prior to the incident?Sam Johnson was in his room when he was called to the office to speak with staff. Resident #1 and Resident #2 were also there being administered medication by Mr. Williams. When Sam arrived, Mr. Williams informed him that his mother had called to say she would not be able to visit that weekend.Detailed description of incident.Sam immediately requested to call his mother. Mr. Williams informed Sam that his mother did not wish to speak with him at that time and would call later in the week.
-Sam then walked toward the phone. Mr. Williams stepped in front of him to block access. Mr. Jones, who was standing in the doorway, instructed Resident #1 and Resident #2 to leave the office. Staff were aware that Sam and Resident #1 had been involved in a physical altercation the previous day. 
-When Mr. Williams blocked his path, Sam began yelling profanities at staff, including repeated statements of ?f--- you.? Sam pushed past Mr. Williams, went upstairs to his room, and slammed the door. Mr. Williams immediately followed him upstairs. Sam continued yelling profanities and told Mr. Williams to ?leave me the f--- alone.? Mr. Williams instructed Sam to return downstairs to the living room and advised that he could not remain in his room alone because staff needed to maintain supervision.
-Sam ran back downstairs and made contact with Resident #2, who immediately began yelling at him. Resident #1 also began yelling and told Sam to stop being disrespectful to Mr. Williams. Sam then attempted to force his way past Mr. Jones, Resident #2, and Resident #1 to re-enter the office. Before a fight could begin, Mr. Jones initiated a solo PRT and placed Sam against the wall in a face-forward hold. As Mr. Williams came downstairs, he heard Sam say, ?Stop scratching me.? Mr. Williams then directed Resident #1 and Resident #2 to go into the living room.
+Detailed description of incident:
+Sam immediately requested to call his mother. Mr. Williams informed Sam that his mother did not wish to speak with him at that time and would call later in the week.
+
+Sam then walked toward the phone. Mr. Williams stepped in front of him to block access. Mr. Jones, who was standing in the doorway, instructed Resident #1 and Resident #2 to leave the office. Staff were aware that Sam and Resident #1 had been involved in a physical altercation the previous day.
+
+When Mr. Williams blocked his path, Sam began yelling profanities at staff, including repeated statements of "f--- you." Sam pushed past Mr. Williams, went upstairs to his room, and slammed the door. Mr. Williams immediately followed him upstairs. Sam continued yelling profanities and told Mr. Williams to "leave me the f--- alone." Mr. Williams instructed Sam to return downstairs to the living room and advised that he could not remain in his room alone because staff needed to maintain supervision.
+
+Sam ran back downstairs and made contact with Resident #2, who immediately began yelling at him. Resident #1 also began yelling and told Sam to stop being disrespectful to Mr. Williams. Sam then attempted to force his way past Mr. Jones, Resident #2, and Resident #1 to re-enter the office. Before a fight could begin, Mr. Jones initiated a solo PRT and placed Sam against the wall in a face-forward hold. As Mr. Williams came downstairs, he heard Sam say, "Stop scratching me." Mr. Williams then directed Resident #1 and Resident #2 to go into the living room.
+
 The restraint continued for approximately 25 minutes. During that time, Sam screamed at Mr. Jones and Mr. Williams and made threats to kill both staff members by name. Once Sam calmed, Mr. Jones released him from the restraint. Mr. Williams had contacted the on-call therapist, Ms. Pratt, who arrived shortly before Sam was released. Ms. Pratt asked Sam whether he was calm enough to take a walk outside, and Sam left the house with her.
-After they exited the house, Mr. Williams heard Sam yelling that he wanted to call his mother. When Mr. Williams opened the door, he observed Sam running across the lawn toward the school. Mr. Williams and Ms. Pratt ran after him and located him behind the school. Mr. Williams instructed Sam to return to the house and told him that failure to do so would result in loss of phone privileges for the week and inability to call his mother.
+
+After they exited the house, Mr. Williams heard Sam yelling that he wanted to call his mother. When Mr. Williams opened the door, he observed Sam running across the lawn toward the school. Mr. Williams and Ms. Pratt ran after him and located him behind the school. Mr. Williams instructed Sam to return to the house.
+
 Sam then began cursing at Mr. Williams again and walked toward him in a threatening manner. At that time, Mr. Williams initiated a restraint and requested assistance from Ms. Pratt. Staff placed Sam into a two-person takedown. Sam struggled and screamed at staff, and then became silent and refused to speak to either Mr. Williams or Ms. Pratt. Approximately 25 minutes later, the nurse arrived and requested that Sam be released from the restraint. Sam was released and walked calmly back to the house with the nurse.
-Once in the office, the nurse contacted Sam?s mother, who agreed to speak with him. Sam spoke with his mother by phone for approximately 10 minutes. After the call ended, Sam went into the living room and sat on the couch.Action taken as a result of this incident.Sam processed at length with Nurse Finely. 
-Sam lost his phone privileges for the week. 
-John and Michael will serve Seven Days of No Off Campus Privileges.Name(s) of staff involved.Mr. Jonathon Williams, Mr. Romero Jones, Ms. Mikka Pratt, Nurse Lindsey FinelyWitnesses (other than staff involved).John Smith and Micheal White; Mr. Jonathon Williams, Mr. Romero Jones, Ms. Mikka Pratt, Nurse Lindsey FinelyWas there a physical restraint?  
-(Yes or No)Yes
 
-STAFF COMPLETING THIS REPORT    * * * Complete By The End Of The Shift When Incident Occurred * * *
-Name  Mr. Jonathon WilliamsPositionResidential CounselorSignatureJonathon WilliamsDate12/20/12
-NOTIFICATIONS
-*  *  *  All Notifications Must Be Completed IMMEDIATELY   *  *  *
+Once in the office, the nurse contacted Sam's mother, who agreed to speak with him. Sam spoke with his mother by phone for approximately 10 minutes. After the call ended, Sam went into the living room and sat on the couch.
 
+Action taken as a result of this incident:
+Sam processed at length with Nurse Finely.
+Sam lost his phone privileges for the week.
 
-  						Enter ?NONE? In All Unused Boxes
+Name(s) of staff involved: Mr. Williams, Mr. Jones, Ms. Pratt, Nurse Finely
+Witnesses (other than staff involved): Resident #1 and Resident #2; Mr. Williams, Mr. Jones, Ms. Pratt, Nurse Finely
+Was there a physical restraint? Yes.
 
-Name Of Person
-To Whom Report
-Was MadeDate
-of ContactTime
-of ContactType
-of ContactName of Staff
-Who Did NotificationLegal Guardian(s) other than SW or parentWinnie Johnson12/19/121:00 p.m.PhoneNurse Lindsey FinelyCase Worker/Case Manager (external)Ms. Jackie Jamison12/19/121:05pm�phoneMr. Jonathon WilliamsProbation OfficerParent(s) as applicable (see resident face sheet)Winnie Johnson12/19/121:16pmphoneMr. Jonathon WilliamsGuardian ad Litem (GAL)YFT Administrator On CallMr. Gary Stevens12/19/121:22 AMIn personMr. Jonathon WilliamsYFT Case ManagerMs. Kaitlyn Shackley12/19/121:22 AMIn personMr. Jonathon WilliamsOther:
-
-NOTIFICATION OF POLICE (If Applicable)
-Officer?s Namen/aCase NumberPhone Number
-NOTIFICATION OF CHILD PROTECTIVE SERVICES (If Applicable)   
-Name of CPS staff to whom report was maden/aCPS phone number    Date of notificationTime of notification
-NOTIFICATION OF LICENSING - For Serious Illness or Injury; Allegation of Child Abuse or Neglect; or Death of a Resident 
-Date of notificationn/aTime of notificationName of staff that notified LicensingName of Licensing staff who was notified
-Mark as appropriate.
-Serious Illness or InjuryAllegation of Child Abuse & NeglectDeath of a Resident              
+STAFF COMPLETING THIS REPORT
+Name: Mr. Williams
+Position: Residential Counselor
+Signature: Mr. Williams
+Date: 12/19/XX
 
-STAFF REVIEW    ****  ALL SIRs must be reviewed by a Supervisor AND Case Manager***
-Supervisor?s Name  Mr. Rich SpatesPositionResidential DirectorSupervisor?s SignatureRich SpatesDate12/19/12Case Manager?s NameMs. Kaitlyn ShackleyPositionCase ManagerCase Manager?s SignatureKaitlyn ShackleyDate12/19/12
-FOR OUT-OF-STATE RESIDENTS ONLY ? A Copy of the SIR must be sent to administrator of the 	
-Va. Interstate Compact on the Placement of Children. 
-Date sent to Interstate Compactn/aMethod of Distribution 
-(email, fax or mail) Signature of Case Manager
+NOTIFICATIONS:
 
-Youth for Tomorrow
+Legal Guardian: Sam's legal guardian — 12/19/XX — 1:00 p.m. — Phone — Nurse Finely
+External Case Worker: Agency case worker — 12/19/XX — 1:05 p.m. — Phone — Mr. Williams
+Probation Officer: N/A
+Parent: Sam's legal guardian — 12/19/XX — 1:16 p.m. — Phone — Mr. Williams
+GAL: N/A
+Administrator On Call: Administrator on Call — 12/19/XX — 1:22 p.m. — In person — Mr. Williams
+Agency Case Manager: Agency Case Manager — 12/19/XX — 1:22 p.m. — In person — Mr. Williams
+Other: N/A
 
-PHYSICAL RESTRAINT
+NOTIFICATION OF POLICE: N/A
+NOTIFICATION OF CPS: N/A
+NOTIFICATION OF LICENSING: N/A
 
+STAFF REVIEW:
+Supervisor: Residential Director — Signature: Residential Director — Date: 12/19/XX
+Case Manager: Agency Case Manager — Signature: Agency Case Manager — Date: 12/19/XX
 
-Resident NameSam Johnson Date of Restraint12-19-12Time of Restraint11:10 AM and 11:40 AM
-METHOD(S) OF RESTRAINT - Mark all that apply
-Standing Primary Restraint Technique (PRT) Single-Person Escort XSolo PRT to Wall StandingModified PRT 
-(for small children)Two-Person Escort Solo PRT to Wall SeatedTripod Modification UsedSolo Takedown (PRT to Floor)XTwo-Person Takedown (PRT to Floor)Two-Person SupinePhysical ProximityTeam Restraint
+---
 
-Name(s) of staff  involvedMr. Jonathon Williams, Mr. Romero Jones, Ms. Mikka Pratt, Nurse Lindsey FinelyBrief description of incidentSam immediately requested to call his mother. Mr. Williams informed Sam that his mother did not wish to speak with him at that time and would call later in the week.
-Sam then walked toward the phone. Mr. Williams stepped in front of him to block access. Mr. Jones, who was standing in the doorway, instructed Resident #1 and Resident #2 to leave the office. Staff were aware that Sam and Resident #1 had been involved in a physical altercation the previous day. 
-When Mr. Williams blocked his path, Sam began yelling profanities at staff, including repeated statements of ?f--- you.? Sam pushed past Mr. Williams, went upstairs to his room, and slammed the door. Mr. Williams immediately followed him upstairs. Sam continued yelling profanities and told Mr. Williams to ?leave me the f--- alone.? Mr. Williams instructed Sam to return downstairs to the living room and advised that he could not remain in his room alone because staff needed to maintain supervision.
-Sam ran back downstairs and made contact with Resident #2, who immediately began yelling at him. Resident #1 also began yelling and told Sam to stop being disrespectful to Mr. Williams. Sam then attempted to force his way past Mr. Jones, Resident #2, and Resident #1 to re-enter the office. Before a fight could begin, Mr. Jones initiated a solo PRT and placed Sam against the wall in a face-forward hold. As Mr. Williams came downstairs, he heard Sam say, ?Stop scratching me.? Mr. Williams then directed Resident #1 and Resident #2 to go into the living room.
-The restraint continued for approximately 25 minutes. During that time, Sam screamed at Mr. Jones and Mr. Williams and made threats to kill both staff members by name. Once Sam calmed, Mr. Jones released him from the restraint. Mr. Williams had contacted the on-call therapist, Ms. Pratt, who arrived shortly before Sam was released. Ms. Pratt asked Sam whether he was calm enough to take a walk outside, and Sam left the house with her.
-After they exited the house, Mr. Williams heard Sam yelling that he wanted to call his mother. When Mr. Williams opened the door, he observed Sam running across the lawn toward the school. Mr. Williams and Ms. Pratt ran after him and located him behind the school. Mr. Williams instructed Sam to return to the house and told him that failure to do so would result in loss of phone privileges for the week and inability to call his mother.
-Sam then began cursing at Mr. Williams again and walked toward him in a threatening manner. At that time, Mr. Williams initiated a restraint and requested assistance from Ms. Pratt. Staff placed Sam into a two-person takedown. Sam struggled and screamed at staff, and then became silent and refused to speak to either Mr. Williams or Ms. Pratt. Approximately 25 minutes later, the nurse arrived and requested that Sam be released from the restraint. Sam was released and walked calmly back to the house with the nurse.
-Once in the office, the nurse contacted Sam?s mother, who agreed to speak with him. Sam spoke with his mother by phone for approximately 10 minutes. After the call ended, Sam went into the living room and sat on the couch.Justification for restraintStudent #1was a danger to himself and others.Less restrictive interventions unsuccessfully attempted prior to using physical restraintPhysical proximity, attempted verbally to de-escalateDuration of restraint 25 minutes Solor PRT and 25 minutes Two-Person Takedown (PRT to Floor)Life Space Interview  Was Conducted ByNot completed due to resident refusalDate/Timen/a
-STAFF COMPLETING THIS REPORT    * * * Complete By The End Of The Shift When Incident Occurred * * *
-Name  Mr. Jonathon WilliamsPositionResidential CounselorSignatureJonathon WilliamsDate12/20/12
-STAFF REVIEW    ****  ALL Physical Restraints must be reviewed by a Supervisor AND Case Manager***
-Supervisor?s Name  Mr. Rich SpatesPositionResidential DirectorSupervisor?s SignatureRich SpatesDate12/19/12Case Manager?s NameMs. Kaitlyn ShackleyPositionCase ManagerCase Manager?s SignatureKaitlyn ShackleyDate12/19/12
-NOTIFICATIONS
- *  *  *  All Notifications Must Be Completed IMMEDIATELY   *  *  *
+PHYSICAL RESTRAINT ADDENDUM
 
-Name Of Person
-To Whom Report
-Was MadeDate
-of ContactTime
-of ContactType
-of ContactName of Staff
-Who Did NotificationLegal Guardian(s) other than SW or parentWinnie Johnson12/19/121:00 p.m.PhoneNurse Lindsey FinelyCase Worker/Case Manager (external)Ms. Jackie Jamison12/19/121:05pm�phoneMr. Jonathon WilliamsProbation OfficerParent(s) as applicable (see resident face sheet)Winnie Johnson12/19/121:16pmphoneMr. Jonathon WilliamsGuardian ad Litem (GAL)YFT Administrator On CallMr. Gary Stevens12/19/121:22 AMIn personMr. Jonathon WilliamsYFT Case ManagerMs. Kaitlyn Shackley12/19/121:22 AMIn personMr. Jonathon WilliamsOther:
-
-FOR OUT-OF-STATE RESIDENTS ONLY ? A Copy of the Physical Restraint form  must be sent to administrator of the Va. Interstate Compact on the Placement of Children. 
+Resident Name: Sam
+Date of Restraint: 12/19/XX
+Time of Restraint: 11:10 a.m. (Solo PRT) and 11:40 a.m. (Two-Person Takedown)
 
-Date sent to Interstate CompactMethod of Distribution 
-(email, fax or mail) Signature of Case Manager
+METHOD(S) OF RESTRAINT (Mark all that apply):
+[X] Solo PRT to Wall Standing
+[X] Two-Person Takedown (PRT to Floor)
 
+Name(s) of staff involved: Mr. Williams, Mr. Jones, Ms. Pratt, Nurse Finely
 
+Brief description of incident: See SIR narrative above.
 
+Justification for restraint:
+Resident was an immediate danger to himself and others. Physical aggression toward peers and threatening behavior toward staff occurred immediately prior to each restraint.
 
+Less restrictive interventions attempted prior to restraint:
+Physical proximity maintained. Staff verbally attempted to de-escalate. Sam was given space and instructed calmly to return to the living room before restraint was initiated.
 
+Duration of restraint:
+- Solo PRT to wall: approximately 25 minutes
+- Two-Person Takedown: approximately 25 minutes
 
+Life Space Interview: Not completed due to resident refusal — documented per policy.
 
-SIR - Page 2 of 3
+STAFF COMPLETING THIS REPORT
+Name: Mr. Williams
+Position: Residential Counselor
+Signature: Mr. Williams
+Date: 12/19/XX
 
+STAFF REVIEW:
+Supervisor: Residential Director — Signature: Residential Director — Date: 12/19/XX
+Case Manager: Agency Case Manager — Signature: Agency Case Manager — Date: 12/19/XX
 
+NOTIFICATIONS (Restraint):
 
+Legal Guardian: Sam's legal guardian — 12/19/XX — 1:00 p.m. — Phone — Nurse Finely
+External Case Worker: Agency case worker — 12/19/XX — 1:05 p.m. — Phone — Mr. Williams
+Probation Officer: N/A
+Parent: Sam's legal guardian — 12/19/XX — 1:16 p.m. — Phone — Mr. Williams
+GAL: N/A
+Administrator On Call: Administrator on Call — 12/19/XX — 1:22 p.m. — In person — Mr. Williams
+Agency Case Manager: Agency Case Manager — 12/19/XX — 1:22 p.m. — In person — Mr. Williams
 
-
-
+---
+TRAINING NOTE — WHAT MAKES THIS REPORT COMPLIANT:
+1. Resident identified by first name only — no last name or identifying number
+2. Report completed same shift as incident (date matches incident date)
+3. Narrative is objective — no staff interpretations or personal reasoning included
+4. "Stop scratching me" statement documented — potential injury concern flagged in narrative
+5. Life Space Interview not completed — reason documented (resident refusal)
+6. All notification times consistent and plausible (all p.m.)
+7. Restraint justification specific — immediate danger to self and others
+8. Less restrictive interventions listed before each restraint
+9. Consequences for Resident #1 and Resident #2 NOT included — documented separately
+10. Supervisor review dated same day as incident; report signed same day

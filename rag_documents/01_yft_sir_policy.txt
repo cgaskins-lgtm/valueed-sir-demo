@@ -1,13 +1,13 @@
-Area: Program and ServicesPolicy:  12 VAC 40-151-750Pages: 1 of 3DocumentationIssued:  October 7, 2013    Revised
+Area: Program and ServicesPolicy:  12 VAC 40-151-750Pages: 1 of 3DocumentationIssued:  October 7, 2013    Revised
 Policy:
 
-Youth For Tomorrow staff will document both positive and negative behaviors of residents daily, weekly and when minor and major incidents occur which require a Behavior Report (BR) or Serious Incident Report (SIR) to be written.  
+[Agency] staff will document both positive and negative behaviors of residents daily, weekly and when minor and major incidents occur which require a Behavior Report (BR) or Serious Incident Report (SIR) to be written.  
 
 NOTE:  Staff will not document behaviors in email.  Concerns regarding behaviors should only be documented in the categories described below.  Also, do not use email to notify supervisors, nursing staff, other staff or clinicians of behavior concerns.  If there are behavior concerns requiring immediate attention or notification, notify the supervisor via telephone and document concerns and notifications in a behavior report or in some cases a Serious Incident Report.
 
 Procedures:
 
-There are four (4) levels of documenting a resident?s behavior at Youth For Tomorrow.  
+There are four (4) levels of documenting a resident?s behavior at [Agency].  
 
 Level 1:  Daily notes
 Level 1 includes the daily documentation of a resident or residents? actions and behaviors in the home or when school is in session. There are three daily records:
@@ -33,7 +33,7 @@ a. ?	ET ? Education
 b. ?	ET ? Residential
 c. ?	ET ? Counseling
 d. ?	ET Summary
-The first three notes are completed by designated individuals in each YFT component summarizing the behaviors on each individual resident.  These notes are used as a focus of discussion during Evaluation Team (ET).  Follow ET, the resident?s case manager provides a combined summary of the component notes and outcomes of the discussion during ET, noting interventions to assist a resident in meeting ISP goals and changing behaviors; and the resident?s progress in the YFT phase system. 
+The first three notes are completed by designated individuals in each [Agency] component summarizing the behaviors on each individual resident.  These notes are used as a focus of discussion during Evaluation Team (ET).  Follow ET, the resident?s case manager provides a combined summary of the component notes and outcomes of the discussion during ET, noting interventions to assist a resident in meeting ISP goals and changing behaviors; and the resident?s progress in the [Agency] phase system. 
 
 Level 3:  Behavior Reports (BR):
 A Behavior Report (BR) is a report to offer information about minor behavior violations that warrant further explanation or disciplinary action which, if left unaddressed, may pose a safety or mental health concern. The following examples show when a BR should be written: 
@@ -56,7 +56,7 @@ According to 12VAC35-46-1070,  a ?serious incidents" include accidents or injuri
 
 A Serious Incident Report (SIR) is a major violation of agency rules or defined by a Comprehensive Services Act (CSA) contract from placing agency.  A documentation of displayed behaviors.  When a SIR involves allegations of child abuse and neglect, a Child Abuse and Neglect form must also be completed and submitted to members of the Leadership Team via email. The following examples show when a SIR should be written: 
 a. 1.	Accidents or injuries to resident requiring medical attention other than minor first aid;
-b. 2.	Unauthorized absence from YFT campus or program for more than 45 minutes (AWOL);
+b. 2.	Unauthorized absence from [Agency] campus or program for more than 45 minutes (AWOL);
 c. 3.	Out of staff supervision for more than 45 minutes;
 d. 4.	Allegations of child abuse or neglect; 
 e. 5.	Serious Infractions of residential or school rules;
@@ -75,10 +75,10 @@ All reports should reflect similar if not more detailed information depending up
 Staff must follow the rules and regulations which govern Health Insurance Portability and Accountability Act of 1996 (HIPAA) Privacy and Security Rules.  No information regarding a resident?s medical or mental health should be distributed via email.  This information should be provided to the case manager and nursing staff in written format such as a Behavior Report (or when warranted a SIR) and placed in the resident?s record.  
 
 Child Abuse and Neglect Allegations should be reported: 
-a. 1.	During business hours,ÿMonday-Friday fromÿ8 a.m. - 5 p.m.,ÿcallÿchild Protective Services atÿ703-792-4200.
-b. 2.	After business hours (5 p.m. toÿ8 a.m.)ÿand on the weekends,ÿcall the Prince William County Police non-emergency numberÿat 703-792-6500; orÿthe Virginia State Hotline at 1-800-552-7096.ÿ 
-c. 3.	The date and time of the call, the name of the person to whom the incident was reported, and a reference number, if available, should be documented immediately. 
+a. 1.	During business hours, Monday-Friday from 8 a.m. - 5 p.m., call local Child Protective Services at [local CPS number].
+b. 2.	After business hours (5 p.m. to 8 a.m.) and on the weekends, call the local law enforcement non-emergency number at [local non-emergency number]; or the state child abuse hotline at [state hotline number].
+c. 3.	The date and time of the call, the name of the person to whom the incident was reported, and a reference number, if available, should be documented immediately.
 
-Also call contact the YFT Director on Call who will notify the Office of Human Rights at 540-332-8321 877-600-7437.
+Also contact the [Agency] Director on Call who will notify the Office of Human Rights at [Agency contact number].
 
 
